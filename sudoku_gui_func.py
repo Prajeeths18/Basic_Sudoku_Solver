@@ -4,7 +4,7 @@ import sudoku_classes
 from sudoku_classes import SubmitBox,InputBox,TextBox,TripleBox,FONT
 SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 600
-start_x,start_y=50,50
+start_x,start_y = 50, 50
 
 
 def re_init():
